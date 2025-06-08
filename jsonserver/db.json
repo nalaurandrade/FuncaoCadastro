@@ -1,0 +1,64 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "username": "h1",
+      "password": "123",
+      "photo": "mascoteh1.png"
+    },
+    {
+      "id": "2",
+      "username": "h2",
+      "password": "456",
+      "photo": "mascoteh1.png"
+    },
+    {
+      "id": "3",
+      "username": "h3",
+      "password": "456",
+      "photo": "mascoteh1.png"
+    },
+    {
+      "id": "4",
+      "username": "h4",
+      "password": "456",
+      "photo": "mascoteh1.png"
+    }
+  ],
+  "Grupos": [
+    {
+      "id": "1",
+      "nome": "Sif 5",
+      "qtde": 10,
+      "icone": "icone.png",
+      "valor": 50
+    },
+    {
+      "id": "2",
+      "nome": "Sif 7",
+      "qtde": 10,
+      "icone": "icone.png",
+      "valor": 50
+    }
+  ],
+  "Produtos": [
+    {
+      "id": "1",
+      "descricao": "Camisa do cruzeiro",
+      "preco": 300,
+      "categoria": "futebol"
+    },
+    {
+      "id": "2",
+      "descricao": "Camisa do atletico",
+      "preco": 300,
+      "categoria": "futebol"
+    },
+    {
+      "id": "3",
+      "descricao": "Camisa do america",
+      "preco": 100,
+      "categoria": "futebol"
+    }
+  ]
+}
